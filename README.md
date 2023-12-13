@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Michal
-- 👀 I’m interested in ...
 - 🌱 I’m currently studying Software Development at SETU Carlow
 - 🏫 I'm currently in my 2nd year 
 - 💞️ I'm hoping to learn Frontend Web Development as well as Python Ai learning and Java App Development
