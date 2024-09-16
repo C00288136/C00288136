@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Michal<br>- 🌱 I’m currently studying Software Development at SETU Carlow<br>- 🏫 I'm currently in my 2nd year <br>- 💞️ I'm hoping to learn Frontend Web Development as well as Python Ai learning and Java App Development<br>- 📫 How to reach me www.linkedin.com/in/michal-kuras1 , C00288136@setu.ie
+- 👋 Hi, I’m Michal<br>- 🌱 I’m currently studying Software Development at SETU Carlow<br>- 🏫 I'm currently in my 3rd year <br>- 💞️ I'm Focusing on Learning Python Web Development and ML in the future<br>- 📫 How to reach me www.linkedin.com/in/michal-kuras1 , C00288136@setu.ie
 
 
 ## 🌐 Socials:
